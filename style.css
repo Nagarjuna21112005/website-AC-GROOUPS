@@ -2,8 +2,8 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url(https://images.unsplash.com/photo-1667832273606-c4a9e46c7d1a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8M2QlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww);
-    background-size: cover;
+    background-image: url(back.jpg);
+    background-size: auto;
     color: #ffffff;
 }
 
